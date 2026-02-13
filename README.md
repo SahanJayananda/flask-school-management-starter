@@ -76,7 +76,7 @@ The full commercial version includes:
 - Future minor updates  
 
 👉 Full commercial version available here:  
-[Buy on Lemon Squeezy](https://app.lemonsqueezy.com/products/827753)
+[Buy on Lemon Squeezy](https://sjdevtools.lemonsqueezy.com/checkout/buy/dae133dd-5210-4791-a569-98e18ee3606d)
 
 ---
 
