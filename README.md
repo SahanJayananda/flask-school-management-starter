@@ -44,7 +44,7 @@ Database relationships include:
 
 Demo
 Demo video:
-(YouTube link – we add later)
+https://youtu.be/LqvonNHynXs
 
 Commercial Version
 The full commercial version includes:
