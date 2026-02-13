@@ -4,7 +4,7 @@ A developer-focused school management system starter kit designed to demonstrate
 
 ---
 
-## 🚀 Features
+## Features
 
 - Admin authentication system  
 - Student management (CRUD)  
@@ -18,7 +18,7 @@ A developer-focused school management system starter kit designed to demonstrate
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 This project follows a modular Flask structure:
 
@@ -36,29 +36,29 @@ This project follows a modular Flask structure:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Login Page
+### Login Page
 ![Login](screenshots/login.png)
 
-### 📊 Dashboard
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 👨‍🎓 Student Management
+### Student Management
 ![Students](screenshots/students.png)
 
-### 📚 Course & Enrollment
+### Course & Enrollment
 ![Enrollment](screenshots/courses.png)
 
-### 👩‍🏫 Teacher Management
+### Teacher Management
 ![Teachers](screenshots/teachers.png)
 
-### 🗂️ ER Diagram
+### ER Diagram
 ![ER Diagram](screenshots/ER_Diagram.png)
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 Watch the product demo here:
 
@@ -66,7 +66,7 @@ https://youtu.be/LqvonNHynXs
 
 ---
 
-## 💰 Commercial Version
+## Commercial Version
 
 The full commercial version includes:
 
@@ -75,11 +75,11 @@ The full commercial version includes:
 - Documentation  
 - Future minor updates  
 
-👉 Full commercial version available here:  
+Full commercial version available here:  
 [Buy on Lemon Squeezy](https://sjdevtools.lemonsqueezy.com/checkout/buy/dae133dd-5210-4791-a569-98e18ee3606d)
 
 ---
 
-## 📜 License
+## License
 
 This repository showcases the project structure and functionality for demonstration purposes.
