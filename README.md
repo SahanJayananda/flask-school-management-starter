@@ -18,22 +18,44 @@ This project follows a modular Flask structure:
 •	templates/ – Jinja templates
 •	static/ – CSS and static files
 •	config.py – Environment configuration
+
+Screenshots
+Login Page
+![Login](screenshots/login.png)
+
+Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+Student Management
+![Students](screenshots/students.png)
+
+Course & Enrollment
+![Enrollment](screenshots/courses.png)
+
+Teacher Management
+![Teachers](screenshots/teachers.png)
+
+ER Diagram
+![ER Diagram](screenshots/ER_Diagram.png)
+
 Database relationships include:
 •	One-to-many (Teacher → Courses)
 •	Many-to-many (Students ↔ Courses via association table)
-ER Diagram
-(Insert ER_Diagram.png here)
+
 Demo
 Demo video:
 (YouTube link – we add later)
+
 Commercial Version
 The full commercial version includes:
 •	Complete source code
 •	Installation guide
 •	Documentation
 •	Future minor updates
+
 Available here:
 (Your Lemon Squeezy link)
+
 License
 This repository showcases project structure and architecture for demonstration purposes.
 
